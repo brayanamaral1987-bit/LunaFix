@@ -1,2 +1,1 @@
-# LunaFix
-Um programa leve, rápido e direto ao ponto desenvolvido para liberar o uso do avançado GPT-6 Luna de graça no seu ambiente local! Esqueça as travas e restrições de versões antigas e aproveite o poder máximo da IA direto na sua máquina!
+Este projeto é um experimento educacional voltado para automação de arquivos de configuração locais (config.toml). Desenvolvido estritamente para fins de estudo em programação, scripts em Python e otimização de sistemas. O uso da ferramenta é de total responsabilidade do usuário final. Projeto independente e sem qualquer vínculo oficial com desenvolvedores terceiros ou plataformas externas.
